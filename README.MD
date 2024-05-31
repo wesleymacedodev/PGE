@@ -18,10 +18,7 @@
 
 [![Texto Alternativo]()](/Github/REVIEW.mp4)
 
-<video controls width="500">
-    <source src="/Github/REVIEW.mp4" type="video/mp4">
-    Seu navegador não suporta a reprodução de vídeos em HTML5.
-</video>
+<div style="position:relative; width:100%; height:0px; padding-bottom:55.425%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/9ftiox?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 <h2>Seções (Links Rápidos)</h2>
 <ul>
