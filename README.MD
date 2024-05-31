@@ -16,6 +16,8 @@
 
 <h2>Vídeo Demonstrativo (Funcionamento)</h2>
 
+[![Texto Alternativo]()](/Github/REVIEW.mp4)
+
 <video controls width="500">
     <source src="/Github/REVIEW.mp4" type="video/mp4">
     Seu navegador não suporta a reprodução de vídeos em HTML5.
