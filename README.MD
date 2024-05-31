@@ -16,9 +16,8 @@
 
 <h2>Vídeo Demonstrativo (Funcionamento)</h2>
 
-[![Texto Alternativo]()](/Github/REVIEW.mp4)
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:55.425%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/9ftiox?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+https://github.com/wesleymacedodev/PGE/assets/123600728/cbf021af-ae73-4220-a046-4b30a4fd9480
+https://github.com/wesleymacedodev/PGE/assets/123600728/4ff4721d-0cca-401f-a617-f89415369be0
 
 <h2>Seções (Links Rápidos)</h2>
 <ul>
