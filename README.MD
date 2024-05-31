@@ -569,6 +569,7 @@ Tela de busca de processo, permite que você navegue e pesquise processos relaci
 </details>
 
 <h2 id="banco">Banco</h2>
+<br>
 <span>Sql Server 2022 - Express</span>
 <details>
 <summary>Criar Banco De Dados (DDL)</summary>
